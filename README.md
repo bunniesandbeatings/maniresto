@@ -1,7 +1,7 @@
 # ManiRESTo
-Using RESTful resources in an easy to reason about manner.
+Using [RESTful](http://en.wikipedia.org/wiki/Representational_state_transfer) resources in an easy to reason about manner.
 
-The good bit's of HATEOAS, heuristically applied to every-day API development.
+Including the good bit's of [HATEOAS](http://en.wikipedia.org/wiki/HATEOAS), heuristically applied to every-day API development.
 
 ## Resources
 
@@ -54,3 +54,5 @@ GET path/to/things ->
   }
 ```  
   
+# TODO
+* Link rel. Obviously.
